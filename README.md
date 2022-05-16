@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/bishojetchandranath#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/bishojetchandranath#gh-dark-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bishojet&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bishojet&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Bishojet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishojet&show_icons=true&theme=radical)
 
