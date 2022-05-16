@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 [![website](./img/globe-light.svg)](https://bishojet.me#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://bishojet.me#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/bishojetdhaka#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/bishojetdhaka#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/bishojetdhaka#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/bishojetdhaka#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/bishojetchandranath#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/bishojetchandranath#gh-dark-mode-only)
+[![Linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/bishojetchandranath#gh-light-mode-only)
+[![Linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/bishojetchandranath#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/bishojetchandranath#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/bishojetchandranath#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/bishojetchandranath#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/bishojetchandranath#gh-dark-mode-only)
 
 
 ![Bishojet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishojet&show_icons=true&theme=radical)
