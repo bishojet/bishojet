@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=9600F7&center=true&width=800&lines=Hello%2C+There...!;I'm+Bishojet+Chandra+Nath;Nice+to+meet+You!;Thank's+for+Visiting+my+Profile!)](https://git.io/typing-svg)
-#
+###
 
 # <p align="center">I'm a passionate Web Developer from Bangladesh.</p>
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me: **mailofbishojet@gmail.com**
 - ⚡ Fun fact: **I play games and watch movie very often.**
 
-
+###
 
 ### Connect with me:
 
@@ -30,6 +30,8 @@
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/bishojetchandranath#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/bishojetchandranath#gh-dark-mode-only)
 
+
+###
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bishojet&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
