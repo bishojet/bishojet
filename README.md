@@ -28,9 +28,8 @@
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/bishojetchandranath#gh-dark-mode-only)
 
 
-<span align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bishojet&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</span>
+
 ![Bishojet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishojet&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishojet&show_icons=true&theme=radical)
