@@ -1,13 +1,12 @@
-<p align="center">#I'm a passionate Web Developer from Bangladesh.</p>
+<p align="center">#I'm a passionate Web Developer from Bangladesh.#</p>
 
 - 🔭 I’m currently working on **East West Media Group Ltd.**
 - 🌱 I’m currently Studyin **Computer Science**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🤔 I’m looking for help with ...
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/bishojet)**
 - 💬 Ask me about **[Messanger](https://m.me/bishojetbd/)**
 - 📫 How to reach me: **mailofbishojet@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: **I play games and watch movie very often.**
 
 
 
