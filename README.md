@@ -12,7 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://bishojet.me#gh-light-mode-only)
+<p align="center">
+[![website](./img/globe-light.svg)](https://bishojet.me#gh-light-mode-only)</p>
 [![website](./img/globe-dark.svg)](https://bishojet.me#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Facebook](./img/twitter-light.svg)](https://facebook.com/bishojetbd#gh-light-mode-only)
