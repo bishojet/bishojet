@@ -1,4 +1,4 @@
-<p align="center">#I'm a passionate Web Developer from Bangladesh.#</p>
+# <p align="center">I'm a passionate Web Developer from Bangladesh.</p>
 
 - 🔭 I’m currently working on **East West Media Group Ltd.**
 - 🌱 I’m currently Studyin **Computer Science**
