@@ -12,8 +12,7 @@
 
 ### Connect with me:
 
-<p align="center">
-[![website](./img/globe-light.svg)](https://bishojet.me#gh-light-mode-only)</p>
+[![website](./img/globe-light.svg)](https://bishojet.me#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://bishojet.me#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Facebook](./img/twitter-light.svg)](https://facebook.com/bishojetbd#gh-light-mode-only)
@@ -28,8 +27,10 @@
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/bishojetchandranath#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/bishojetchandranath#gh-dark-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bishojet&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<p align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bishojet&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
 ![Bishojet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishojet&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishojet&show_icons=true&theme=radical)
