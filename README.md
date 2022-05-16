@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hello%2C+There...!;I'm+Bishojet+Chandra+Nath;Nice+to+meet+You!;Thank's+for+Visiting+my+Profile!)](https://git.io/typing-svg)
+
 # <p align="center">I'm a passionate Web Developer from Bangladesh.</p>
 
 - 🔭 I’m currently working on **East West Media Group Ltd.**
