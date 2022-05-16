@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/bishojet)**
 - 💬 Ask me about **[Messanger](https://m.me/bishojetbd/)**
-- 📫 How to reach me: **mailofbishojet@gmail.com
+- 📫 How to reach me: **mailofbishojet@gmail.com**
 - ⚡ Fun fact: **I play games and watch movie very often.**
 
 
