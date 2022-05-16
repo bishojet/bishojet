@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/bishojetchandranath#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/bishojetchandranath#gh-dark-mode-only)
 
+[![Bishojet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishojet&theme=dark)](https://git.io/streak-stats)
 
 ![Bishojet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishojet&show_icons=true&theme=radical)
 
