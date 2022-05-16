@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 [![website](./img/globe-light.svg)](https://bishojet.me#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://bishojet.me#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![Facebook](./img/twitter-light.svg)](https://facebook.com/bishojetbd#gh-light-mode-only)
+[![Facebook](./img/twitter-dark.svg)](https://facebook.com/bishojetbd#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/bishojetdhaka#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/bishojetdhaka#gh-dark-mode-only)
 &nbsp;&nbsp;
