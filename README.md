@@ -4,7 +4,7 @@
 # <p align="center">I'm a passionate Web Developer from Bangladesh.</p>
 
 - 🔭 I’m currently working on **East West Media Group Ltd.**
-- 🌱 I’m currently Studyin **Computer Science**
+- 🌱 I’m currently Studying **Computer Science and Engineering** at **DiU**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/bishojet)**
 - 💬 Ask me about **[Messanger](https://m.me/bishojetbd/)**
